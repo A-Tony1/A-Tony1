@@ -1,10 +1,10 @@
 # Hi, I'm Anthony Abia 👋
 
-### Junior DevOps / Cloud Engineer
+### DevOps Engineer
 
 **AWS | Terraform | Docker | Jenkins | Linux | Git | CI/CD | Infrastructure Automation**
 
-I am a Junior DevOps and Cloud Engineer with hands-on experience building CI/CD pipelines, containerizing applications, automating deployment workflows, and working with Linux-based infrastructure.
+I am a DevOps Engineer with hands-on experience building CI/CD pipelines, containerizing applications, automating deployment workflows, and working with Linux-based infrastructure.
 
 My current focus is on building practical cloud and DevOps solutions using AWS, Terraform, Docker, Jenkins, Git and Linux.
 
@@ -27,9 +27,9 @@ My current focus is on building practical cloud and DevOps solutions using AWS, 
 
 ## 🏗️ Featured DevOps Project
 
-### Local AWS EC2 CI/CD Simulation Lab
+### On-premise CI/CD Deployment Automation Lab
 
-A two-server DevOps laboratory built with VMware Workstation and Ubuntu to simulate an AWS EC2-based CI/CD deployment environment.
+Architected an on-premise simulation of an AWS EC2 CI/CD infrastructure using a multi-server VMware Workstation environment running Ubuntu.
 
 The project demonstrates:
 
@@ -104,26 +104,23 @@ Infrastructure Automation
 
 I am currently seeking opportunities as a:
 
-Junior DevOps Engineer
+DevOps Engineer
 DevOps Engineer Intern
 DevOps Trainee
-Junior Cloud Engineer
-Cloud Support Engineer
-Infrastructure Engineer
 
 I am particularly interested in remote opportunities where I can contribute to real-world cloud infrastructure, automation and CI/CD projects while continuing to grow as a DevOps professional.
 
 📂 Portfolio Projects
 Project	Technologies	Status
-Local AWS EC2 CI/CD Simulation Lab	Jenkins, Docker, Maven, Git, Linux, SSH	Completed
+On-premise CI/CD Deployment Automation Lab	Jenkins, Docker, Maven, Git, Linux, SSH	Completed
 Terraform AWS Infrastructure	Terraform, AWS	Building
 Dockerized Application	Docker, Docker Compose	Building
 Jenkins CI/CD Pipeline	Jenkins, Git, Docker	Planned
 Linux DevOps Automation	Linux, Bash, SSH	Planned
 📫 Connect With Me
 GitHub: https://github.com/A-Tony1
-LinkedIn: Add your LinkedIn profile
-Email: Add your professional email
+LinkedIn: 
+Email: anthonyabia.devops@gmail.com
 ⚡ DevOps Philosophy
 
 Automate what can be automated, document what has been built, and continuously improve the delivery process.

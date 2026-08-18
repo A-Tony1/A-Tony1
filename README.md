@@ -30,6 +30,8 @@ My current focus is on building practical cloud and DevOps solutions using AWS, 
 ### On-premise CI/CD Deployment Automation Lab
 
 Architected an on-premise simulation of an AWS EC2 CI/CD infrastructure using a multi-server VMware Workstation environment running Ubuntu.
+This project demonstrates how I designed and implemented an end-to-end CI/CD pipeline without requiring an AWS,AZURE or GCP account, while maintaining the core workflow used in a cloud-based deployment environment.
+The project builds, tests, packages, containerizes, publishes, and automatically deploys a Java Spring Boot application from GitHub through Jenkins to a remote development server.
 
 The project demonstrates:
 
